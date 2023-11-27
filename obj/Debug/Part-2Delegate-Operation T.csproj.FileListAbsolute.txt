@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-16\Assignment-21\Part-2Delegate-Operation T\Part-2Delegate-Operation T\obj\Debug\Part-2Delegate-Operation T.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-16\Assignment-21\Part-2Delegate-Operation T\Part-2Delegate-Operation T\obj\Debug\Part-2Delegate-Operation T.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-16\Assignment-21\Part-2Delegate-Operation T\Part-2Delegate-Operation T\bin\Debug\Part-2Delegate-Operation T.exe.config
+C:\mphasis-B2\Day-16\Assignment-21\Part-2Delegate-Operation T\Part-2Delegate-Operation T\bin\Debug\Part-2Delegate-Operation T.exe
+C:\mphasis-B2\Day-16\Assignment-21\Part-2Delegate-Operation T\Part-2Delegate-Operation T\bin\Debug\Part-2Delegate-Operation T.pdb
+C:\mphasis-B2\Day-16\Assignment-21\Part-2Delegate-Operation T\Part-2Delegate-Operation T\obj\Debug\Part-2Delegate-Operation T.exe
+C:\mphasis-B2\Day-16\Assignment-21\Part-2Delegate-Operation T\Part-2Delegate-Operation T\obj\Debug\Part-2Delegate-Operation T.pdb
